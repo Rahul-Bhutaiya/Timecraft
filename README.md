@@ -4,6 +4,15 @@
 - CSS
 - Javascript
 
+### Reference
+- https://javascript30.com/
+
+### My Inputs
+
+- Introducing Dark & Light Mode
+- Added Responsiveness
+- UI Changed - Introduced New Interactive UI
+
 
 ### Live Link
 
